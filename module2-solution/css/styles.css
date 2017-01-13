@@ -5,13 +5,12 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: Couriel;
 	color: #000000;
 	text-align: center;
 }
 
 body {
-	background-image: url("background.jpg");
 	background-color: #FEF5CA;
 
 }
@@ -79,9 +78,9 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
+  padding: 5px;
 	background-color: #00FFFF;
-	color: white;
-	padding: 5px;
+	
 }
 
 .row {
